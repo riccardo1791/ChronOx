@@ -1,0 +1,16 @@
+body{
+  margin-top: 250px;
+}
+
+.logo{
+  width:300px;
+  height:auto;
+}
+
+#text{
+padding-top: 50px;
+}
+
+#link{
+padding-top: 200px;
+}
